@@ -176,6 +176,25 @@ To be sure, you can always download the ZIP archive {{ downloads.win_x64_zip.mar
 
 On some Windows devices the app may fail to launch or experience subtle issues, if you launched the Windows installer directly from the downloads section in Firefox. To avoid any issues, it's best to open Windows Explorer first and then run the installer from there.
 
+### Where is Music Presence?
+
+Music Presence can be located in the system tray (or on the status bar if you are on a Mac)
+
+![Where is music presence icon windows](/_static/media/installation-music-presence-icon-windows.png)
+
+![Where is music presence icon mac](/_static/media/installation-music-presence-icon-mac.png)
+
+## Automatic updates
+
+Automatic updates can be enabled in the settings by activation "Start Music Presence at login"
+
+![Where is music presence icon windows](/_static/media/installation-auto-updates.png)
+This will install updates automatically every time a new update comes.
+
+## Auto-Start Music Presence on startup
+
+
+
 <script type="module" src="/_static/scripts/page/installation/reorder-download-buttons.js"></script>
 <script type="module" src="/_static/scripts/page/select-and-sync-os.js"></script>
 
@@ -183,8 +202,8 @@ On some Windows devices the app may fail to launch or experience subtle issues, 
 
 !!! warning "TODO"
 
-    - Add screenshots of where to find the app icon
-    - Add a section for "Automatic updates" of the application
+    - ~~Add screenshots of where to find the app icon~~
+    - ~~Add a section for "Automatic updates" of the application~~
     - Add a section for "Autostart" (automatic startup) of the application
     - Link to the "Community" tab to join the Discord community in the "The app did not launch" section, in case the app still did not launch for the user
     - Link to the "Community" tab to join the Discord community in a "Getting help" section
